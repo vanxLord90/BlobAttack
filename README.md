@@ -5,3 +5,5 @@ Then run the file. Press Start when the game screen comes up. The game will star
 If the File gives a processing core and PApplet error, do not fret. Check to see if you have pull everything correctly from this repo. If you have, delete the core\library. Go to https://processing.org/download to download processing. Processing is an open-source free graphical library and integrated development environment built for the electronic arts, new media art, and visual design communities with the purpose of teaching non-programmers the fundamentals of computer programming in a visual context. For further questions check out this link https://processing.org/tutorials/overview. 
 
 After that, go to import, file systems and find the core.jar in the library of the processing package. Import this core.jar file.  Go into the core\library and right click on it, then click the option which Build Path and click Add to Build Path. 
+
+The Restart button currently doesn't work as intended, if you find how to fix it,  feel free.
